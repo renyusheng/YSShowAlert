@@ -1,0 +1,16 @@
+PODS:
+  - YSShowAlert (0.1.0)
+
+DEPENDENCIES:
+  - YSShowAlert (from `../`)
+
+EXTERNAL SOURCES:
+  YSShowAlert:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  YSShowAlert: ecfd013b936563183ff837d7962bef6924dbecb6
+
+PODFILE CHECKSUM: 3833660008824a66bb602ee949ef6dc1c2cfbfc9
+
+COCOAPODS: 1.7.5

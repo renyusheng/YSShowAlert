@@ -1,0 +1,22 @@
+{
+  "name": "YSShowAlert",
+  "version": "0.1.0",
+  "summary": "A short description of YSShowAlert.",
+  "description": "'OLECommonWebContainer用来管理基础组件方便后期维护开发基于web容器支持JS与OC的交互'",
+  "homepage": "https://github.com/renyusheng/YSShowAlert.git",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "renyusheng": "770324717@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/renyusheng/YSShowAlert.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "YSShowAlert/Classes/**/*"
+}

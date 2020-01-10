@@ -1,0 +1,6 @@
+framework module YSShowAlert {
+  umbrella header "YSShowAlert-umbrella.h"
+
+  export *
+  module * { export * }
+}

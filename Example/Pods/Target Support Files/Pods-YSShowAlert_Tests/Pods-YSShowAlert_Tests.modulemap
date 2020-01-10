@@ -1,0 +1,6 @@
+framework module Pods_YSShowAlert_Tests {
+  umbrella header "Pods-YSShowAlert_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}
